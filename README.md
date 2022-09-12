@@ -1,2 +1,2 @@
 # BuyMeLandApplication
-this application is all about a market for buying and selling lands 
+this mobile application is all about a market for buying and selling lands us
